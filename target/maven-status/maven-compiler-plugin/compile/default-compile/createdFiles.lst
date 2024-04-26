@@ -1,0 +1,5 @@
+com\mycompany\demojaas\MyCallbackHandler.class
+com\mycompany\demojaas\MyLoginModule.class
+com\mycompany\demojaas\DemoJAAS$1.class
+com\mycompany\demojaas\MyUserPrincipal.class
+com\mycompany\demojaas\DemoJAAS.class
